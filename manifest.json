@@ -1,0 +1,21 @@
+{
+    "name":"ckymn pwa",
+    "shor_name":"pwa",
+    "start_url":".",
+    "background_color":"#6dcdb1",
+    "theme_color":"#009578",
+    "display":"standalone",
+    "icons": [
+        {
+            "src":"images/logo192.png",
+            "size": "192*192",
+            "type": "image/png"
+        },
+        {
+            "src":"images/logo512.png",
+            "size": "512*512",
+            "type": "image/png"
+        }
+    ]
+
+}
